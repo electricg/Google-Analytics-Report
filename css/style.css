@@ -1,0 +1,14 @@
+.msg {
+	border: 1px solid #FFFFFF;
+}
+.loading {
+	border-color: #CCCCCC;
+}
+.success {
+	background-color: #E6F0C0;
+	border-color: #4E9300;
+}
+.error {
+	background-color: #F5CDC5;
+	border-color: #D4300A;
+}
